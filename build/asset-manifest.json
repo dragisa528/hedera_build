@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9720362.chunk.css",
+    "main.js": "/static/js/main.22baf86c.chunk.js",
+    "main.js.map": "/static/js/main.22baf86c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a77c987.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a77c987.js.map",
+    "static/js/2.fd89060f.chunk.js": "/static/js/2.fd89060f.chunk.js",
+    "static/js/2.fd89060f.chunk.js.map": "/static/js/2.fd89060f.chunk.js.map",
+    "static/js/3.f144b47b.chunk.js": "/static/js/3.f144b47b.chunk.js",
+    "static/js/3.f144b47b.chunk.js.map": "/static/js/3.f144b47b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f9720362.chunk.css.map": "/static/css/main.f9720362.chunk.css.map",
+    "static/js/2.fd89060f.chunk.js.LICENSE.txt": "/static/js/2.fd89060f.chunk.js.LICENSE.txt",
+    "static/media/56752.194de839.png": "/static/media/56752.194de839.png",
+    "static/media/671.700b939b.png": "/static/media/671.700b939b.png",
+    "static/media/676 1.752a282e.png": "/static/media/676 1.752a282e.png",
+    "static/media/677 1.ea3edde8.png": "/static/media/677 1.ea3edde8.png",
+    "static/media/897 1.7b40d171.png": "/static/media/897 1.7b40d171.png",
+    "static/media/App.css": "/static/media/hotel_de_paris.b3730163.ttf",
+    "static/media/Background.10f237cb.png": "/static/media/Background.10f237cb.png",
+    "static/media/DOT1.8e98b728.png": "/static/media/DOT1.8e98b728.png",
+    "static/media/Section.d144abb7.png": "/static/media/Section.d144abb7.png",
+    "static/media/Sixsense.623309b0.png": "/static/media/Sixsense.623309b0.png",
+    "static/media/Vector (1).475a90d9.png": "/static/media/Vector (1).475a90d9.png",
+    "static/media/Vector.03a2936e.png": "/static/media/Vector.03a2936e.png",
+    "static/media/Y7 1.5ce51ce4.png": "/static/media/Y7 1.5ce51ce4.png",
+    "static/media/bg1.7e79fca6.png": "/static/media/bg1.7e79fca6.png",
+    "static/media/div.tp-bgimg.977c754d.png": "/static/media/div.tp-bgimg.977c754d.png",
+    "static/media/pricelogo.b766d62b.png": "/static/media/pricelogo.b766d62b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a77c987.js",
+    "static/js/2.fd89060f.chunk.js",
+    "static/css/main.f9720362.chunk.css",
+    "static/js/main.22baf86c.chunk.js"
+  ]
+}
